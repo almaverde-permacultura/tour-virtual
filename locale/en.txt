@@ -1,0 +1,122 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_02DA2520_36FB_C938_41BB_5A09FD99FF61.source = https://www.geckoview.net
+LinkBehaviour_0E9EB4AD_36E8_4F08_41C1_D56B72A75A0E.source = https://www.geckoview.net
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_98C8EFEF_8960_9B6D_41DA_194AA6320363.text = Almaciguera
+HotspotPanoramaOverlayTextImage_9BAFE29C_872D_50BE_419F_551F2AFBCE07.text = Baños
+HotspotPanoramaOverlayTextImage_9D8C6DF9_86DD_B086_41BD_B4280172A4D0.text = Camping
+HotspotPanoramaOverlayTextImage_9F31FF59_86FD_5186_41A8_0FF930767983.text = Camping
+HotspotPanoramaOverlayTextImage_9A56970F_86D7_519A_41DD_17DE080A894E.text = Camping
+HotspotPanoramaOverlayTextImage_9B796226_8963_849F_41DD_E9F849D5AE4F.text = Casita de huéspedes
+HotspotPanoramaOverlayTextImage_9BEE61B7_8960_87FD_41C6_68246AB11190.text = Espacio común
+HotspotPanoramaOverlayTextImage_9CEE8488_8960_8D93_41DF_92BDC4848F08.text = Gallinero
+HotspotPanoramaOverlayTextImage_9CA6EDF6_8961_BF7F_41BA_29A6CD3E9483.text = Gallinero
+HotspotPanoramaOverlayTextImage_9E87848C_86FF_509E_419A_9C429066D668.text = Huerta
+
+## Media
+
+### Image
+imlevel_A541D57C_873D_D07E_41DB_591BC3AC8001.url = media/panorama_8A204B7A_8534_B07A_41C7_BE2543FB6E13_HS_9fm9v5po_en.png
+imlevel_A54F05AC_873D_D09E_41C5_E523D0D51A66.url = media/panorama_8A20DD69_8537_B186_41D6_9FEC4BF54614_HS_xtmwujqj_en.png
+imlevel_9E33B509_8967_8C95_41B8_7E1FC30E056D.url = media/panorama_8A22DBA1_8535_5086_41C2_43E86216E792_HS_qbkzzhqv_en.png
+imlevel_A5403593_873D_D08A_41B5_3EBA603B9C8D.url = media/panorama_8A23B507_8534_B18A_41B6_8227A5D55B75_HS_lzog2uti_en.png
+imlevel_9E3640FB_8967_8575_41D8_D17D953C9ACA.url = media/panorama_93EEF05B_86F4_CFBA_41D0_C04330B310EB_HS_9zp8cscz_en.png
+imlevel_95F102B0_8960_85F3_41CD_4864207BA1BF.url = media/panorama_93EEF05B_86F4_CFBA_41D0_C04330B310EB_HS_g29w5uzj_en.png
+imlevel_91CF0022_8967_8497_41D6_3132CB6F05DE.url = media/panorama_93EEF05B_86F4_CFBA_41D0_C04330B310EB_HS_ja81h0ig_en.png
+imlevel_A368081F_8733_FFBA_41DC_9060BACE23F0.url = media/panorama_93EEF05B_86F4_CFBA_41D0_C04330B310EB_HS_rnt6nh5l_en.png
+imlevel_A547A3C5_873D_D08E_41E0_33BD954B5338.url = media/panorama_93EEF05B_86F4_CFBA_41D0_C04330B310EB_HS_utig1z33_en.png
+imlevel_938D2F81_8960_FB95_41DD_DCBF352000E9.url = media/panorama_93EEF05B_86F4_CFBA_41D0_C04330B310EB_HS_yq5jvak6_en.png
+
+### Title
+panorama_8A20AFFF_8537_707A_41D1_75A4CBBCD30C.label = Almaciguera
+panorama_8A20618C_8537_709E_41D9_186D79C410DC.label = Almaciguera
+panorama_8A20AC06_8537_F78A_41C3_4A3FE8A45038.label = Banos
+panorama_8A20AD4F_8537_D19A_41D1_194DAD68E69E.label = Banos1
+panorama_8A20DD69_8537_B186_41D6_9FEC4BF54614.label = Camping
+panorama_A68FF28B_8734_D09A_41B5_50909EDC6091.label = Casita de huéspedes
+panorama_82C7082D_8960_84ED_41D0_BE408233ED2E.label = Casita de voluntarios
+panorama_85ED002C_8960_8493_41D3_D070D809CB4C.label = Casita de voluntarios
+panorama_8A2574BD_8535_F0FE_41AA_902617372B1F.label = Compost
+panorama_95A2BB35_8533_B18E_41DB_ED6F8218189A.label = DJI_0303 Panorama-6-low-light
+panorama_95A2E425_8533_F78E_41DB_99495607F2B5.label = DroneHigh
+panorama_8A260481_8533_5086_41DD_9BA3D450B2EB.label = DroneMedium
+panorama_8A23B507_8534_B18A_41B6_8227A5D55B75.label = Espacio Común
+panorama_8A204B7A_8534_B07A_41C7_BE2543FB6E13.label = Espacio Común
+panorama_8A23E81F_8534_FFBA_41DF_82ADA93CCDFA.label = Espacio Común
+panorama_82C6E7B1_8967_8BF5_41CF_C9795B5FB1EC.label = Gallinero
+panorama_82C6C030_8967_84F3_41D5_D3EEEFB5E7E7.label = Gallinero
+panorama_8A250A46_8535_738A_41DC_FA14129BC5FD.label = Garden1
+panorama_8A2530A1_8535_7086_41DF_FBEC12116CFA.label = Garden2
+panorama_8A208E93_8537_508A_41BE_5271D352585B.label = GardenWork
+panorama_8A22DBA1_8535_5086_41C2_43E86216E792.label = Huerta
+panorama_8A24626E_8535_B39B_41DD_1A2EC638435C.label = Invernadero
+panorama_95A26522_8533_518A_41BE_412896070495.label = Oven
+panorama_9D6DEA54_8963_84B3_41B8_AE815E5EC6DD.label = R0020193_HDR-Edit-9-low-light
+panorama_9BD970D9_8963_85B5_41CB_7D6BD3F18A6D.label = R0020194_HDR-Edit-10-low-light
+panorama_8A205901_8537_5189_41B5_4AE370599643.label = TopOfhill
+panorama_93EEF05B_86F4_CFBA_41D0_C04330B310EB.label = Vista aérea
+
+## Skin
+
+### Button
+Button_98840DD5_88BB_EE47_41DD_9DF80E23AC2C.label = Galería 360
+Button_98840DD5_88BB_EE47_41DD_9DF80E23AC2C_mobile.label = Galería 360
+
+### Image
+Image_00F2ADB7_36F8_7918_41B5_BD81BC0D75F3.url = skin/Image_00F2ADB7_36F8_7918_41B5_BD81BC0D75F3_en.png
+Image_00F2ADB7_36F8_7918_41B5_BD81BC0D75F3_mobile.url = skin/Image_00F2ADB7_36F8_7918_41B5_BD81BC0D75F3_mobile_en.png
+Image_1AEAC834_3628_C718_41C5_4AB5491D7835.url = skin/Image_1AEAC834_3628_C718_41C5_4AB5491D7835_en.png
+Image_1AEAC834_3628_C718_41C5_4AB5491D7835_mobile.url = skin/Image_1AEAC834_3628_C718_41C5_4AB5491D7835_mobile_en.png
+Image_5445BEC0_41A6_4FA1_41A0_5B9FB54FF603.url = skin/Image_5445BEC0_41A6_4FA1_41A0_5B9FB54FF603_en.png
+Image_580358A4_41EA_33E1_4199_ACD6A10539DB.url = skin/Image_580358A4_41EA_33E1_4199_ACD6A10539DB_en.png
+
+### Multiline Text
+HTMLText_9A198386_88BD_3AC5_41A3_E1658D7B8E5B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.33vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.6499999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;word-break:break-word;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_9A198386_88BD_3AC5_41A3_E1658D7B8E5B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.33vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.6499999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;word-break:break-word;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Permacultura
+
+### Title
+tour.name = Alma Verde
+
+## VR Menu
+
+### Text
+MenuItem_92BEA84B_8960_8495_41E0_556ADBF2EB95.label = Almaciguera
+MenuItem_92BE584B_8960_8495_41C2_9B68D6F0B61A.label = Almaciguera
+MenuItem_92B1E84B_8960_8495_41C8_7E1AB5FC6268.label = Banos
+MenuItem_92B1384B_8960_8495_41DD_9596F403FC1B.label = Banos1
+MenuItem_92B1D84B_8960_8495_41D1_4D41B5D54BD8.label = Camping
+MenuItem_92B1984B_8960_8495_41DF_37D90E523793.label = Casita de huéspedes
+MenuItem_92BE084B_8960_8495_41D7_293E7F1F0B6C.label = Casita de voluntarios
+MenuItem_92B1084B_8960_8495_41D6_EA1E8E7922BE.label = Casita de voluntarios
+MenuItem_92BE184B_8960_8495_41CB_AF736F3E256F.label = Compost
+MenuItem_92BE284B_8960_8495_41C0_75A4836041CF.label = DJI_0303 Panorama-6-low-light
+MenuItem_92B1684B_8960_8495_41D1_46FEA2D05841.label = DroneHigh
+MenuItem_92BEB84B_8960_8495_41C6_679683718C83.label = DroneMedium
+MenuItem_92BED84A_8960_8497_41D8_0FAA3A8D9738.label = Espacio Común
+MenuItem_92BEC84A_8960_8497_41D8_13003A86DF98.label = Espacio Común
+MenuItem_92B1484B_8960_8495_41CA_524198B99B3B.label = Espacio Común
+MenuItem_92BE484B_8960_8495_41CA_C26E433148E3.label = Gallinero
+MenuItem_92B1B84B_8960_8495_41BB_55A35CB412DF.label = Gallinero
+MenuItem_92B1184B_8960_8495_41B9_7A550F4E2B79.label = Garden1
+MenuItem_92BE684B_8960_8495_41DA_DE6F26703691.label = Garden2
+MenuItem_92B1284B_8960_8495_41B9_E3C03B93158A.label = GardenWork
+MenuItem_92B1884B_8960_8495_41B4_B5201A045696.label = Huerta
+MenuItem_92BEE84A_8960_8497_41DE_A9989429963E.label = Invernadero
+Menu_072A886C_5E16_1C2A_41C3_0CF4206D6076.label = Media
+MenuItem_92B1A84B_8960_8495_41D8_4CE11490C69B.label = Oven
+MenuItem_92B1F84B_8960_8495_41D6_F84A8725A244.label = R0020193_HDR-Edit-9-low-light
+MenuItem_92BE984B_8960_8495_41BA_8AE7021B5DD6.label = R0020194_HDR-Edit-10-low-light
+MenuItem_92BEF84A_8960_8497_41BE_125B97DA2C40.label = TopOfhill
+MenuItem_92BE884A_8960_8497_41CA_0405C2FC5A66.label = Vista aérea
